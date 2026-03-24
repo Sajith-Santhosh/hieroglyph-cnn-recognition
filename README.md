@@ -33,7 +33,7 @@ The goal of this repository is to:
 
 - use the **Franken Hieroglyph Dataset** to study automatic hieroglyph recognition
 - train a **Convolutional Neural Network (CNN)** to classify hieroglyph symbols
-- establish a **baseline model trained from scratch**
+- establish a **CNN model trained from scratch**
 - evaluate how effectively modern deep learning methods can recognize ancient glyph shapes
 
 This project focuses on building a baseline system that can later be extended with more advanced techniques such as improved architectures, data augmentation, or transfer learning.
